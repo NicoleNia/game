@@ -5,10 +5,6 @@ body {
     font-family: Verdana, Inter, sans-serif;
 }
 
-p {
-    width: 90%
-}
-
 #topNav {
   background: #2f3347;
   height: auto;
