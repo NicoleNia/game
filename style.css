@@ -4,3 +4,7 @@ body {
     margin-right: auto;
     font-family: Verdana, Inter, sans-serif;
 }
+
+p {
+    width: 90%
+}
